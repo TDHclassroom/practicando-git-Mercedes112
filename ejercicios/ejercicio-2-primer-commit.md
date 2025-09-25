@@ -9,7 +9,7 @@ Aprender a crear archivos, añadirlos al área de staging y hacer tu primer comm
    ```
    # Mi Proyecto Git
    
-   Este es mi primer proyecto usando Git.
+   Este es mi primer proyecto uqsando Git.
    ```
 
 2. Crea una carpeta llamada `docs` en la raíz del proyecto.

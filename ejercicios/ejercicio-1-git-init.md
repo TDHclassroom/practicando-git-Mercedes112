@@ -7,12 +7,12 @@ Aprender a inicializar un repositorio Git y configurar la información básica d
 
 1. Configura tu nombre de usuario de Git:
    ```bash
-   git config --global user.name "Tu Nombre"
+   git config --global user.name "Mercedes Aracena
    ```
 
 2. Configura tu email de Git:
    ```bash
-   git config --global user.email "tu.email@ejemplo.com"
+   git config --global user.email "20231410@itla.edu.do"
    ```
 
 3. Verifica que la configuración se guardó correctamente:
